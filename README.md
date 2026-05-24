@@ -1,29 +1,29 @@
-# 🌸✨ Golden‑Pastel Portfolio ✨⭐
+# 🌸✨ My Pastel Portfolio ✨⭐
 
-Welcome to my curated portfolio showcasing **AI/ML projects, pastel‑styled frontends, and product‑driven engineering**.  
-Built with a focus on **clarity, creativity, and recruiter‑ready polish**.
-
----
-
-## 🚀 Featured Projects
-- ⭐ **NeuroVox‑9** → ML‑powered voice emotion analysis  
-  🌐 [Live Demo](https://muskanmehra09.github.io/Portfolio/)|   
-- 🌸 **Frontend Showcases** → Pastel‑themed UI/UX experiments  
-- ✨ **Hackathon Builds** → Rapid prototypes with clean documentation  
+A curated showcase of my **personal portfolio website** — built with  
+**HTML + CSS** for a clean, pastel aesthetic and recruiter‑ready polish.  
 
 ---
 
-## 🎨 Tech + Design
-- **Languages**: Python, C++, HTML/CSS/JS  
-- **Frameworks**: Pandas, Jupyter, GitHub Pages  
-- **Design**: Pastel UI, badge‑style README, recruiter‑friendly commits  
+## 🎀 Features
+- 🌸 Minimalist pastel UI (white, pink, golden accents)  
+- ✨ Responsive design for desktop + mobile  
+- ⭐ Professional layout for resume, projects, and contact info  
 
 ---
 
-## 📑 Documentation Excellence
-- Clear problem → solution statements  
-- Professional commit hygiene  
-- Live demo links + screenshots  
+## 🚀 Live Demo
+🌐 [View Portfolio Website](https://muskanmehra09.github.io/Portfolio/) 
 
+---
 
+## 📂 Tech Stack
+- **Frontend** → HTML, CSS  
+- **Design** → Pastel theme, aesthetic symbols ✨🌸⭐  
 
+---
+
+## 🌍 Career Focus
+This portfolio reflects my journey as a **B.Tech CSE student**  
+preparing for **global SDE/APM roles**, blending **technical clarity**  
+with **aesthetic design sense**.
